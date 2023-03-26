@@ -1,4 +1,4 @@
-package Repetition;//baek_23_10950
+package Repetition;//baek_10950
 
 import java.util.Scanner;
 
